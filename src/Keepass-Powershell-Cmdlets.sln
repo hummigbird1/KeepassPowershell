@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepassPSCmdlets", "KeepassPSCmdlets\KeepassPSCmdlets.csproj", "{D5B98710-5AE7-4D96-9A25-F6A29DB90AD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B98710-5AE7-4D96-9A25-F6A29DB90AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B98710-5AE7-4D96-9A25-F6A29DB90AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B98710-5AE7-4D96-9A25-F6A29DB90AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B98710-5AE7-4D96-9A25-F6A29DB90AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98EAFAD9-325A-4BD8-9AE8-8793DC8C2A24}
+	EndGlobalSection
+EndGlobal
