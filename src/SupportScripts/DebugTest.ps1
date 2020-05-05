@@ -1,0 +1,2 @@
+﻿$masterPassword = ConvertTo-SecureString -Force -AsPlainText -String 123
+Find-KeepassEntry -InputObject D:\temp\Test.kdbx -MasterPassword $masterPassword -WindowsUserAccount -BinDir D:\PortableApps\KeePass

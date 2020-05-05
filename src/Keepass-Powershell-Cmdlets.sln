@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepassPSCmdlets", "KeepassPSCmdlets\KeepassPSCmdlets.csproj", "{D5B98710-5AE7-4D96-9A25-F6A29DB90AD1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Item", "Solution Item", "{14BB3CC4-E7F7-4545-BC2F-72CD4337C36C}"
+	ProjectSection(SolutionItems) = preProject
+		SupportScripts\BuildRelease.ps1 = SupportScripts\BuildRelease.ps1
+		SupportScripts\DebugTest.ps1 = SupportScripts\DebugTest.ps1
+		SupportScripts\Installer.ps1 = SupportScripts\Installer.ps1
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
