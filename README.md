@@ -12,6 +12,8 @@ Modifying Keepass entries is currently not planned.
 * Follow the instructions
 * Enjoy!
 
+To jump in take a look at the examples in the [Documentation/ExampleScripts](https://github.com/hummigbird1/KeepassPowershell/tree/master/Documentation/ExampleScripts) folder in this repository.
+
 ## Available Cmdlets
 To see all Cmdlets provided and check if the installation was actually successful just run:
 
